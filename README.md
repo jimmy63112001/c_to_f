@@ -1,1 +1,1 @@
-# c_to_f
+# this is a program for degree_c convert to degree_f
